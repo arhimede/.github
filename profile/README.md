@@ -2,6 +2,5 @@
 
 ![](https://github.com/dotkernel/dotkernel.github.io/blob/main/img/dk_logo_2024.svg) 
 
-### TSC member @Laminas Project
+![](https://github.com/arhimede/.github/blob/main/apidemia_logo_blue.svg)
 
-### TSC member @Dotkernel
