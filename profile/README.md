@@ -2,4 +2,4 @@
 
 ### TSC member @Laminas Project
 
-### TSC member @Dotkernel.
+### TSC member @Dotkernel
